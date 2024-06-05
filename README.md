@@ -1,6 +1,6 @@
 ## Hello, my name is Pedro! 👋
 
-- 🔭 I’m currently working on my junior enterprise project
+- 🔭 I’m currently working on Sintática. [View my work profile!](https://github.com/PedroSintatica) 
 - 🌱 I’m currently learning react and going deeper with django and node
 - 🤔 I’m looking for help with understanding how to improve django performance
 - 💬 Ask me about django and python
