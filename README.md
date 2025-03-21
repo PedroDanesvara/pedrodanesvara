@@ -1,9 +1,9 @@
 ## Hello, my name is Pedro! 👋
 
 - 🔭 I’m currently working on Sintática. [View my work profile!](https://github.com/PedroSintatica) 
-- 🌱 I’m currently learning react and going deeper with django and node
-- 🤔 I’m looking for help with understanding how to improve django performance
-- 💬 Ask me about django and python
+- 🌱 I’m currently learning system design and architecture
+- 🤔 I’m looking for help with understanding how to build lange and scalable systems
+- 💬 Ask me about full stack development things
 - 📫 How to reach me: just DM me in Instagram [pedro_henrique020702](https://www.instagram.com/pedro_henrique020702/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats😺. I realy love cats...
