@@ -1,12 +1,13 @@
 ## Hello, my name is Pedro! 👋
 
-- 🔭 I’m currently working on Sintática. [View my work profile!](https://github.com/PedroSintatica) 
+- 🔭 I’m currently working on Multti.
 - 🌱 I’m currently learning system design and architecture
-- 🤔 I’m looking for help with understanding how to build lange and scalable systems
+- 🤔 I’m looking for help with understanding how to build large and scalable systems
 - 💬 Ask me about full stack development things
 - 📫 How to reach me: just DM me in Instagram [pedro_henrique020702](https://www.instagram.com/pedro_henrique020702/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats😺. I realy love cats...
+- 🖥️ See my [portfolio!](https://portifolio.ahrion.family/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrodanesvara&show_icons=true&theme=onedark" />
